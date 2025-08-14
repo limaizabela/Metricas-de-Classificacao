@@ -17,7 +17,7 @@ def main() -> None:
         if fpr < best_fpr:
             best_fpr = fpr
             best_index = idx
-
+            
     # Formata a saída removendo zeros finais desnecessários
     fpr_str = f"{best_fpr:.2f}".rstrip('0').rstrip('.')
 
