@@ -1,5 +1,5 @@
 # Metricas-de-Classificacao
-##Cálculo de melhor acurácia, melhor precisão e menor taxa de falsos positivos
+## Cálculo de melhor acurácia, melhor precisão e menor taxa de falsos positivos
 
 A fim de desenvolver habilidades práticas em ciência de dados, este projeto explora as métricas de classificação, como acurácia, precisão e taxa de falsos positivos, utilizando dados sintéticos para demonstrar seus cálculos em Python.
 
